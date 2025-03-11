@@ -2,7 +2,7 @@
 
 Starter Template for **N**etlify CMS, **E**leventy, **A**lpine JS & **T**ailwind CSS
 
-## Live Demo
+## Live Demo s
 
 [https://neat-starter.netlify.app/](https://neat-starter.netlify.app/)
 
